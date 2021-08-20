@@ -1,3 +1,4 @@
+
 ### Criando um App de Cartão de Visitas em Kotlin - Digital Innovation One
 ### Bootcamp Inter Android Developer
 #### Curso conduzido por [Igor Bagliotti]
@@ -20,4 +21,6 @@ Incorporando melhorias:
 
 
 Previsualização
+
+https://user-images.githubusercontent.com/83181304/130303559-95d98f3c-d0a0-457b-9133-f0b21c8b3261.mp4
 
