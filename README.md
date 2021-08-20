@@ -16,7 +16,7 @@ Incorporando melhorias:
 * Em pesquisa na internet, consegui o modo de selecionar a cor de fundo do cartão,
   sem precisar que o usuário digite manualmente.
 * Funções para excluir e editar os cartões.
-* Clicando no cartão, ele gira, mostrando os botões de ação remover, editar, e compatilhar.
+* Clicando no cartão, ele gira, mostrando os botões de ação remover, editar, e compartilhar.
 
 
 Previsualização
